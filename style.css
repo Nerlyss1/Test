@@ -1,3 +1,12 @@
-h1 {
-	color: blue;
+/* style.css */
+
+/* Styles pour le jeu */
+
+#game {
+	width: 400px;
+	height: 400px;
+	background-color: lightblue;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
